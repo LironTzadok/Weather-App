@@ -35,7 +35,7 @@ const Forecast = ({ forecastData }) => {
                   <img
                     alt="weather"
                     className="icon-small"
-                    src={`icons/${item.weather[0].icon}.png`}
+                    src={`${window.location.href}/icons/${item.weather[0].icon}.png`}
                   />
                   <span className="day">{nextWeekDays[index]}</span>
                   <span className="min-max">
