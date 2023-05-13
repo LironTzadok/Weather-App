@@ -72,7 +72,10 @@ function App() {
           target="_blank"
         >
           Let's connect on LinkedIn
-          <img className="linkedin-logo" src="assets/linkedin-logo.png" />
+          <img
+            className="linkedin-logo"
+            src="Weather-App/assets/linkedin-logo.png"
+          />
         </a>
       </div>
     </div>

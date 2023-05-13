@@ -1,12 +1,21 @@
 .container {
-  max-width: 1080px;
+  width: 340px;
   margin: 20px auto;
+}
+
+.container > * {
+  width: inherit;
 }
 
 .search-result {
   display: flex;
-  justify-content: space-evenly;
-  margin: 30px;
+  flex-direction: column;
+  align-items: center;  
+}
+
+.search-result > * {
+  margin-top: 20px;
+  width: inherit;
 }
 
 .white-block {
