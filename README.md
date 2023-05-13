@@ -1,6 +1,11 @@
 # Weather App
 
 This is a simple weather application built using React. It allows users to search for the current weather conditions of any location worldwide.
-![תמונה של WhatsApp‏ 2023-05-13 בשעה 14 02 38](https://github.com/LironTzadok/Weather-App/assets/100410551/88bd6009-010f-436c-9407-c47fed0e0ba7)
-
+### Features
+# Search:
+Enter the name of a city or location in the search bar to retrieve the current weather conditions.
+# Weather Details: 
+The app displays the temperature, weather description, humidity, wind speed, and weather icon for the searched location.
+# Responsive Design: 
+The application is designed to be responsive and mobile-friendly, ensuring a consistent experience across different devices.
 
